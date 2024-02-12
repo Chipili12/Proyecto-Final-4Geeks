@@ -37,7 +37,7 @@ Start the Flask server.
 ```bash
 python app.py
 ```
-run frontend
+Run frontend
 ```bash
 npm run dev
 ```
