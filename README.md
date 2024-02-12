@@ -42,3 +42,12 @@ Run frontend
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with any browser of your choosing
+
+## Credits
+This project was developed by:
+- [Santiago Burgueño](github.com/chipili12)
+- [Gabriel Rodriguez](github.com/gabroma)
+- [Agustina Ferreira](github.com/agustinaf18)
+
+Special thanks to [4GeeksAcademy](https://github.com/4GeeksAcademy) for providing the knowledge necessary to develop this project.
+
