@@ -11,7 +11,7 @@ This project utilizes an external web scraping tool designed to extract product 
 - Web Scraping: Utilizes an external API for efficient and reliable scraping of Amazon Products.
 - User-Friendly Interface: Built with React, Bootstrap, and custom CSS, offering an intuitive and responsive UI for easy navigation and interaction.
 - Data Storage: Employs SQLAlchemy to efficiently store scraped data in a database, ensuring persistence and easy retrieval.
-- Customization: Users can specify search parameters and filters to tailor the scraping process according to their requirements.
+- Customization: Users can specify search parameters and filters for scrapped items according to their requirements.
 - Authentication: Offers log-in features to ensure privacy & persistency of shopping cart, favourite items, etc.
 
 ## Technologies Used
