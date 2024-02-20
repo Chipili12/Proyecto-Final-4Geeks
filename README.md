@@ -19,8 +19,8 @@ This project utilizes an external web scraping tool designed to extract product 
 - Frontend: HTML, CSS, React, JavaScript, Bootstrap
 
 ## Usage
-If you don't have a Package Manager installed, you'll need [Node.js](https://nodejs.org/)
-Clone the repository to your local machine.
+If you haven't already installed npm, you'll need [Node.js](https://nodejs.org/) for the front end, and [Python](https://www.python.org/downloads/) for the backend.
+After that, clone the repository to your local machine.
 ```bash
 cd /Path/to/directory
 
@@ -34,6 +34,7 @@ pip install -r requirements.txt.
 ```
 
 Start the Flask server.
+
 ```bash
 python app.py
 ```
