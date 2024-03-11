@@ -66,6 +66,7 @@ npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with any browser of your choosing for the front-end side of the website.
+
 Open [http://localhost:3001](http://localhost:3001) to access dev access to database.
 
 ## Credits
