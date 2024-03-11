@@ -6,7 +6,6 @@ import { Productos } from "../component/producto.js";
 export const Categoria = (props) => {
   const { store, actions } = useContext(Context);
   const { cat } = useParams();
-  console.log(cat);
   return (
     <>
       <small className=" fs-6 d-flex justify-content-center mt-3">

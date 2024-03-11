@@ -32,6 +32,7 @@ export const Single = (item, props) => {
   const product = store.productos?.find((item) =>
     item.sku.includes(params.theid)
   );
+  console.log(item.sku);
   return (
     <>
       <div className="d-flex container mt-4">

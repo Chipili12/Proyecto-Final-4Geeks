@@ -323,9 +323,9 @@ def editar_estado_carrito(user_id ):
 
 @api.route('/productos/api', methods=['GET'])
 def handle_productos():
-        api_key = "18DF63A7B71E4C839C4C0E29147AA185"
+        api_key = "D9CC43DBFA164B3287C6BDE9C28C02CD"
         category_id = "1254762011"
-        api_url_category = f"https://api.rainforestapi.com/request?api_key={api_key}&type=search&amazon_domain=amazon.com&search_term=android"
+        api_url_category = f"https://api.rainforestapi.com/request?api_key={api_key}&type=search&amazon_domain=amazon.com&search_term=cellphone"
         response_category = requests.get(api_url_category).json()
         for item in response_category["search_results"]:
             asin = item.get("asin")
